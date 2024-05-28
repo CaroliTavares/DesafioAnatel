@@ -1,5 +1,5 @@
 <h1 align="center">
-  Desafio de Ciências de dados 
+  Desafio de ciências de dados 
 </h1>
 
 
